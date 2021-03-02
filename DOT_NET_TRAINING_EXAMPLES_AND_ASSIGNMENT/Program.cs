@@ -10,6 +10,7 @@ namespace DOT_NET_TRAINING_EXAMPLES_AND_ASSIGNMENT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine( "hello");
         }
     }
 }
