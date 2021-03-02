@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOT_NET_TRAINING_EXAMPLES_A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TNN News", "TNN News\TNN News.csproj", "{B8CB735E-695D-4006-9EE8-34A1F06C8C0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_march_collection_demo", "2_march_collection_demo\2_march_collection_demo.csproj", "{0E070284-0F66-425F-9B3F-94BBC1385E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSerach", "WordSerach\WordSerach.csproj", "{A2E356C9-7EF0-496A-99B2-6AD2F7BF9FA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{B8CB735E-695D-4006-9EE8-34A1F06C8C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8CB735E-695D-4006-9EE8-34A1F06C8C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8CB735E-695D-4006-9EE8-34A1F06C8C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E070284-0F66-425F-9B3F-94BBC1385E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E070284-0F66-425F-9B3F-94BBC1385E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E070284-0F66-425F-9B3F-94BBC1385E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E070284-0F66-425F-9B3F-94BBC1385E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E356C9-7EF0-496A-99B2-6AD2F7BF9FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E356C9-7EF0-496A-99B2-6AD2F7BF9FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E356C9-7EF0-496A-99B2-6AD2F7BF9FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E356C9-7EF0-496A-99B2-6AD2F7BF9FA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
